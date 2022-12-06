@@ -44,7 +44,7 @@
   },
   "description": "One fork with bugs fixed of simditor",
   "devDependencies": {
-    "express": "~3.3.4",
+    "express": "~4.17.3",
     "grunt": "0.x",
     "grunt-banner": "0.3.x",
     "grunt-contrib-clean": "0.x",
